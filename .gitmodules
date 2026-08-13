@@ -28,3 +28,9 @@
 [submodule "packages/quanttide-devops-toolkit"]
 	path = packages/quanttide-devops-toolkit
 	url = git@github.com:quanttide/quanttide-devops-toolkit.git
+[submodule "packages/quanttide-index-toolkit"]
+	path = packages/quanttide-index-toolkit
+	url = git@github.com:quanttide/quanttide-index-toolkit.git
+[submodule "packages/quanttide-meta-toolkit"]
+	path = packages/quanttide-meta-toolkit
+	url = git@github.com:quanttide/quanttide-meta-toolkit.git
