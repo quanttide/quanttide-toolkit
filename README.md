@@ -36,7 +36,7 @@ quanttide-meta-toolkit（元领域：标准字段/模型）
 | 领域层 | [`quanttide-data-toolkit`](packages/quanttide-data-toolkit) | 数据工程 |
 | 领域层 | [`quanttide-devops-toolkit`](packages/quanttide-devops-toolkit) | DevOps |
 | 领域层 | [`quanttide-docs-toolkit`](packages/quanttide-docs-toolkit) | 文档工程 |
-| 领域层 | [`quanttide-founder-toolkit`](packages/quanttide-founder-toolkit) | 创始团队（定位待补充） |
+| 领域层 | [`quanttide-founder-toolkit`](packages/quanttide-founder-toolkit) | 创始人工具箱 |
 | 领域层 | [`quanttide-knowl-toolkit`](packages/quanttide-knowl-toolkit) | 知识工程 |
 | 领域层 | [`quanttide-project-toolkit`](packages/quanttide-project-toolkit) | 项目管理 |
 
