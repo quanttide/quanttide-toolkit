@@ -38,6 +38,8 @@ quanttide-meta-toolkit（元领域：标准字段/模型）
 | 领域层 | [`quanttide-docs-toolkit`](packages/quanttide-docs-toolkit) | 文档工程 |
 | 领域层 | [`quanttide-founder-toolkit`](packages/quanttide-founder-toolkit) | 创始人工具箱 |
 | 领域层 | [`quanttide-knowl-toolkit`](packages/quanttide-knowl-toolkit) | 知识工程 |
+| 领域层 | [`quanttide-media-toolkit`](packages/quanttide-media-toolkit) | 媒体（Flutter） |
+| 领域层 | [`quanttide-product-toolkit`](packages/quanttide-product-toolkit) | 产品（Flutter） |
 | 领域层 | [`quanttide-project-toolkit`](packages/quanttide-project-toolkit) | 项目管理 |
 
 预留：`quanttide-feishu-toolkit`（基础设施层），见 [ROADMAP.md](ROADMAP.md)。

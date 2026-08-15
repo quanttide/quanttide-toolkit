@@ -37,3 +37,9 @@
 [submodule "packages/quanttide-tech-toolkit"]
 	path = packages/quanttide-tech-toolkit
 	url = git@github.com:quanttide/quanttide-tech-toolkit.git
+[submodule "packages/quanttide-product-toolkit"]
+	path = packages/quanttide-product-toolkit
+	url = git@github.com:quanttide/quanttide-product-toolkit.git
+[submodule "packages/quanttide-media-toolkit"]
+	path = packages/quanttide-media-toolkit
+	url = git@github.com:quanttide/quanttide-media-toolkit.git
