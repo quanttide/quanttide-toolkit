@@ -15,7 +15,7 @@
 	url = git@github.com:quanttide/quanttide-agent-toolkit.git
 [submodule "packages/quanttide-knowl-toolkit"]
 	path = packages/quanttide-knowl-toolkit
-	url = git@github.com:Guo-Zhang/quanttide-knowl-toolkit
+	url = git@github.com:quanttide/quanttide-knowl-toolkit.git
 [submodule "packages/quanttide-audit-toolkit"]
 	path = packages/quanttide-audit-toolkit
 	url = git@github.com:quanttide/quanttide-audit-toolkit.git
@@ -31,3 +31,9 @@
 [submodule "packages/quanttide-meta-toolkit"]
 	path = packages/quanttide-meta-toolkit
 	url = git@github.com:quanttide/quanttide-meta-toolkit.git
+[submodule "packages/quanttide-founder-toolkit"]
+	path = packages/quanttide-founder-toolkit
+	url = git@github.com:quanttide/quanttide-founder-toolkit.git
+[submodule "packages/quanttide-tech-toolkit"]
+	path = packages/quanttide-tech-toolkit
+	url = git@github.com:quanttide/quanttide-tech-toolkit.git

@@ -28,6 +28,7 @@ quanttide-meta-toolkit（元领域：标准字段/模型）
 |----|----|------|
 | 入口层 | [`quanttide-index-toolkit`](packages/quanttide-index-toolkit) | 统一入口——人和 AI 从这里找到所有库 |
 | 元领域层 | [`quanttide-meta-toolkit`](packages/quanttide-meta-toolkit) | 归纳特征——标准字段/模型（Summarize 模式） |
+| 应用层 | [`quanttide-tech-toolkit`](packages/quanttide-tech-toolkit) | 跨业务、跨领域流程整合 |
 | 领域层 | [`quanttide-agent-toolkit`](packages/quanttide-agent-toolkit) | 智能体工程 |
 | 领域层 | [`quanttide-audit-toolkit`](packages/quanttide-audit-toolkit) | 审计领域数据模型 |
 | 领域层 | [`quanttide-connect-toolkit`](packages/quanttide-connect-toolkit) | 沟通工程 |
@@ -35,10 +36,11 @@ quanttide-meta-toolkit（元领域：标准字段/模型）
 | 领域层 | [`quanttide-data-toolkit`](packages/quanttide-data-toolkit) | 数据工程 |
 | 领域层 | [`quanttide-devops-toolkit`](packages/quanttide-devops-toolkit) | DevOps |
 | 领域层 | [`quanttide-docs-toolkit`](packages/quanttide-docs-toolkit) | 文档工程 |
+| 领域层 | [`quanttide-founder-toolkit`](packages/quanttide-founder-toolkit) | 创始团队（定位待补充） |
 | 领域层 | [`quanttide-knowl-toolkit`](packages/quanttide-knowl-toolkit) | 知识工程 |
 | 领域层 | [`quanttide-project-toolkit`](packages/quanttide-project-toolkit) | 项目管理 |
 
-预留：`quanttide-tech-toolkit`（应用层）、`quanttide-feishu-toolkit`（基础设施层），见 [ROADMAP.md](ROADMAP.md)。
+预留：`quanttide-feishu-toolkit`（基础设施层），见 [ROADMAP.md](ROADMAP.md)。
 
 ## 目录结构
 
