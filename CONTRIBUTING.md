@@ -18,4 +18,4 @@ quanttide-toolkit 是量潮工具库体系的元仓库，聚合各领域 toolkit
 
 ## 提交规范
 
-遵循 Conventional Commits（`feat:` / `fix:` / `docs:` / `chore:` 等）；破坏性变更标 `!` 并在正文说明迁移方式。
+遵循 Conventional Commits（`feat:` / `fix:` / `docs:` / `chore:` 等）；破坏性变更标 `!` 并在正文说明迁移方式。提交后始终推送（always push）到 `origin`，不要把提交留在本地——引用指针与治理视图只有在远端才对人和其他仓库可见。
