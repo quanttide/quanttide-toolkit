@@ -73,6 +73,8 @@ quanttide-meta-toolkit（元领域：标准字段/模型）
 
 ```text
 quanttide-toolkit/
+├── AGENTS.md                # 智能体约定
+├── CONTRIBUTING.md          # 贡献指南
 ├── defaults/                # 子模块：tech、founder（见上表）
 ├── domains/                 # 子模块：各领域 toolkit（见上表）
 ├── LICENSE                  # MIT 许可证
@@ -90,7 +92,7 @@ git clone --recurse-submodules git@github.com:quanttide/quanttide-toolkit.git
 git submodule update --init --recursive
 ```
 
-子模块是独立仓库，改动请在各 toolkit 仓库内提交推送，本仓库只更新引用。
+子模块是独立仓库，改动请在各 toolkit 仓库内提交推送，本仓库只更新引用；日常同步与提交约定见 [CONTRIBUTING.md](CONTRIBUTING.md)，智能体约定见 [AGENTS.md](AGENTS.md)。
 
 ## 许可证
 
