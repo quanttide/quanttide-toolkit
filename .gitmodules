@@ -1,45 +1,45 @@
-[submodule "packages/quanttide-data-toolkit"]
-	path = packages/quanttide-data-toolkit
+[submodule "domains/quanttide-data-toolkit"]
+	path = domains/quanttide-data-toolkit
 	url = https://github.com/quanttide/quanttide-data-toolkit.git
-[submodule "packages/quanttide-project-toolkit"]
-	path = packages/quanttide-project-toolkit
+[submodule "domains/quanttide-project-toolkit"]
+	path = domains/quanttide-project-toolkit
 	url = https://github.com/quanttide/quanttide-project-toolkit.git
-[submodule "packages/quanttide-course-toolkit"]
-	path = packages/quanttide-course-toolkit
+[submodule "domains/quanttide-course-toolkit"]
+	path = domains/quanttide-course-toolkit
 	url = https://github.com/quanttide/quanttide-course-toolkit.git
-[submodule "packages/quanttide-connect-toolkit"]
-	path = packages/quanttide-connect-toolkit
+[submodule "domains/quanttide-connect-toolkit"]
+	path = domains/quanttide-connect-toolkit
 	url = https://github.com/quanttide/quanttide-connect-toolkit.git
-[submodule "packages/quanttide-agent-toolkit"]
-	path = packages/quanttide-agent-toolkit
+[submodule "domains/quanttide-agent-toolkit"]
+	path = domains/quanttide-agent-toolkit
 	url = https://github.com/quanttide/quanttide-agent-toolkit.git
-[submodule "packages/quanttide-knowl-toolkit"]
-	path = packages/quanttide-knowl-toolkit
+[submodule "domains/quanttide-knowl-toolkit"]
+	path = domains/quanttide-knowl-toolkit
 	url = https://github.com/quanttide/quanttide-knowl-toolkit.git
-[submodule "packages/quanttide-audit-toolkit"]
-	path = packages/quanttide-audit-toolkit
+[submodule "domains/quanttide-audit-toolkit"]
+	path = domains/quanttide-audit-toolkit
 	url = https://github.com/quanttide/quanttide-audit-toolkit.git
-[submodule "packages/quanttide-docs-toolkit"]
-	path = packages/quanttide-docs-toolkit
+[submodule "domains/quanttide-docs-toolkit"]
+	path = domains/quanttide-docs-toolkit
 	url = https://github.com/quanttide/quanttide-docs-toolkit.git
-[submodule "packages/quanttide-devops-toolkit"]
-	path = packages/quanttide-devops-toolkit
+[submodule "domains/quanttide-devops-toolkit"]
+	path = domains/quanttide-devops-toolkit
 	url = https://github.com/quanttide/quanttide-devops-toolkit.git
-[submodule "packages/quanttide-index-toolkit"]
-	path = packages/quanttide-index-toolkit
+[submodule "domains/quanttide-index-toolkit"]
+	path = domains/quanttide-index-toolkit
 	url = https://github.com/quanttide/quanttide-index-toolkit.git
-[submodule "packages/quanttide-meta-toolkit"]
-	path = packages/quanttide-meta-toolkit
+[submodule "domains/quanttide-meta-toolkit"]
+	path = domains/quanttide-meta-toolkit
 	url = https://github.com/quanttide/quanttide-meta-toolkit.git
-[submodule "packages/quanttide-founder-toolkit"]
-	path = packages/quanttide-founder-toolkit
+[submodule "defaults/quanttide-founder-toolkit"]
+	path = defaults/quanttide-founder-toolkit
 	url = https://github.com/quanttide/quanttide-founder-toolkit.git
-[submodule "packages/quanttide-tech-toolkit"]
-	path = packages/quanttide-tech-toolkit
+[submodule "defaults/quanttide-tech-toolkit"]
+	path = defaults/quanttide-tech-toolkit
 	url = https://github.com/quanttide/quanttide-tech-toolkit.git
-[submodule "packages/quanttide-product-toolkit"]
-	path = packages/quanttide-product-toolkit
+[submodule "domains/quanttide-product-toolkit"]
+	path = domains/quanttide-product-toolkit
 	url = https://github.com/quanttide/quanttide-product-toolkit.git
-[submodule "packages/quanttide-media-toolkit"]
-	path = packages/quanttide-media-toolkit
+[submodule "domains/quanttide-media-toolkit"]
+	path = domains/quanttide-media-toolkit
 	url = https://github.com/quanttide/quanttide-media-toolkit.git
