@@ -43,3 +43,6 @@
 [submodule "domains/quanttide-media-toolkit"]
 	path = domains/quanttide-media-toolkit
 	url = https://github.com/quanttide/quanttide-media-toolkit.git
+[submodule "adapters/quanttide-pi-toolkit"]
+	path = adapters/quanttide-pi-toolkit
+	url = https://github.com/quanttide/quanttide-pi-toolkit.git

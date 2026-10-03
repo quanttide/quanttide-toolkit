@@ -1,6 +1,6 @@
 # 量潮工具集（quanttide-toolkit）
 
-量潮工具库体系的**元仓库**——聚合语言无关的 toolkit 包，分置于 `domains/` 与 `defaults/` 两个目录。各 toolkit 是独立仓库（Git 子模块），独立演进，本仓库只追踪引用。
+量潮工具库体系的**元仓库**——聚合语言无关的 toolkit 包，分置于 `adapters/`、`domains/` 与 `defaults/` 三个目录。各 toolkit 是独立仓库（Git 子模块），独立演进，本仓库只追踪引用。
 
 ## 架构思想
 
@@ -54,6 +54,7 @@ quanttide-meta-toolkit（元领域：标准字段/模型）
 | 入口层 | [`quanttide-index-toolkit`](domains/quanttide-index-toolkit) | 统一入口——人和 AI 从这里找到所有库 |
 | 元领域层 | [`quanttide-meta-toolkit`](domains/quanttide-meta-toolkit) | 归纳特征——标准字段/模型（Summarize 模式） |
 | 应用层 | [`quanttide-tech-toolkit`](defaults/quanttide-tech-toolkit) | 跨业务、跨领域流程整合 |
+| 适配层 | [`quanttide-pi-toolkit`](adapters/quanttide-pi-toolkit) | Pi 智能体接入（适配轴） |
 | 领域层 | [`quanttide-agent-toolkit`](domains/quanttide-agent-toolkit) | 智能体工程 |
 | 领域层 | [`quanttide-audit-toolkit`](domains/quanttide-audit-toolkit) | 审计领域数据模型 |
 | 领域层 | [`quanttide-connect-toolkit`](domains/quanttide-connect-toolkit) | 沟通工程 |
@@ -75,6 +76,7 @@ quanttide-meta-toolkit（元领域：标准字段/模型）
 quanttide-toolkit/
 ├── AGENTS.md                # 智能体约定
 ├── CONTRIBUTING.md          # 贡献指南
+├── adapters/                # 子模块：Pi 智能体（见上表）
 ├── defaults/                # 子模块：tech、founder（见上表）
 ├── domains/                 # 子模块：各领域 toolkit（见上表）
 ├── LICENSE                  # MIT 许可证

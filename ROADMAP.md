@@ -9,5 +9,7 @@
 
 ## 演进记录
 
+- 2026-09-29：新增 `adapters/` 分区，挂载 `quanttide-pi-toolkit`（Pi 智能体接入）。分区由两个（domains、defaults）扩为三个。
+
 - 2026-08-10：创建 `quanttide-founder-toolkit` 与 `quanttide-tech-toolkit`（应用层），挂载入元仓库；`quanttide-knowl-toolkit` 迁至 quanttide 组织。
 - 2026-08-09：quanttide-base-toolkit 拆解完成。storage/fields → meta-toolkit（元领域）；base 历史 → index-toolkit（入口库）；本仓库成为元仓库（挂载 10 个领域 toolkit）。分层模型见 [README](README.md)。
