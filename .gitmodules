@@ -33,7 +33,7 @@
 	url = https://github.com/quanttide/quanttide-meta-toolkit.git
 [submodule "defaults/quanttide-founder-toolkit"]
 	path = defaults/quanttide-founder-toolkit
-	url = https://github.com/quanttide/quanttide-founder-toolkit.git
+	url = https://github.com/quanttide-founder/quanttide-founder-toolkit.git
 [submodule "defaults/quanttide-tech-toolkit"]
 	path = defaults/quanttide-tech-toolkit
 	url = https://github.com/quanttide/quanttide-tech-toolkit.git
