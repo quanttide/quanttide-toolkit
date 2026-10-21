@@ -1,6 +1,6 @@
 # quanttide-toolkit 贡献指南
 
-quanttide-toolkit 是量潮工具库体系的元仓库，聚合各领域 toolkit 子模块。仓库定位、架构思想与包清单见 [README.md](README.md)，演进路线见 [ROADMAP.md](ROADMAP.md)，面向智能体的约定见 [AGENTS.md](AGENTS.md)。
+quanttide-toolkit 是量潮工具库体系的元仓库，聚合各领域 toolkit 子模块。仓库定位、架构思想与包清单见 [README.md](README.md)，演进路线见 [ROADMAP.md](docs/dev-guide/roadmap.md)，面向智能体的约定见 [AGENTS.md](AGENTS.md)。
 
 ## 资产轴与领域轴
 

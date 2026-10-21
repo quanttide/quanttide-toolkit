@@ -68,7 +68,7 @@ quanttide-meta-toolkit（元领域：标准字段/模型）
 | 领域层 | [`quanttide-product-toolkit`](domains/quanttide-product-toolkit) | 产品（Flutter） |
 | 领域层 | [`quanttide-project-toolkit`](domains/quanttide-project-toolkit) | 项目管理 |
 
-预留：`quanttide-feishu-toolkit`（基础设施层，统一底层依赖），见 [ROADMAP.md](ROADMAP.md)。
+预留：`quanttide-feishu-toolkit`（基础设施层，统一底层依赖），见 [ROADMAP.md](docs/dev-guide/roadmap.md)。
 
 ## 目录结构
 
