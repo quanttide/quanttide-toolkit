@@ -1,6 +1,6 @@
-# 量潮工具集（quanttide-toolkit）
+# 量潮标准库（quanttide-toolkit）
 
-量潮工具库体系的**元仓库**——聚合语言无关的 toolkit 包，分置于 `adapters/`、`domains/` 与 `defaults/` 三个目录。各 toolkit 是独立仓库（Git 子模块），独立演进，本仓库只追踪引用。
+量潮标准库体系的**元仓库**——聚合语言无关的 toolkit 包，分置于 `adapters/`、`domains/` 与 `defaults/` 三个目录。各 toolkit 是独立仓库（Git 子模块），独立演进，本仓库只追踪引用。
 
 ## 架构思想
 
@@ -62,7 +62,7 @@ quanttide-meta-toolkit（元领域：标准字段/模型）
 | 领域层 | [`quanttide-data-toolkit`](domains/quanttide-data-toolkit) | 数据工程 |
 | 领域层 | [`quanttide-devops-toolkit`](domains/quanttide-devops-toolkit) | DevOps |
 | 领域层 | [`quanttide-docs-toolkit`](domains/quanttide-docs-toolkit) | 文档工程 |
-| 领域层 | [`quanttide-founder-toolkit`](defaults/quanttide-founder-toolkit) | 创始人工具箱 |
+| 领域层 | [`quanttide-founder-toolkit`](defaults/quanttide-founder-toolkit) | 创始人标准库 |
 | 领域层 | [`quanttide-knowl-toolkit`](domains/quanttide-knowl-toolkit) | 知识工程 |
 | 领域层 | [`quanttide-media-toolkit`](domains/quanttide-media-toolkit) | 媒体（Flutter） |
 | 领域层 | [`quanttide-product-toolkit`](domains/quanttide-product-toolkit) | 产品（Flutter） |

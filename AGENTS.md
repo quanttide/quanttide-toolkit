@@ -2,7 +2,7 @@
 
 ## 仓库定位
 
-quanttide-toolkit 是量潮工具库体系的元仓库，在资产轴上聚合各领域 toolkit 子模块。各 toolkit 在各自的领域轴内通常会有更新；本仓库以整理领域间关系和集中治理结构为主，不承载领域实现。因此需要经常 fetch 子模块的最新更新，使引用指针与治理视图保持时效。定位与包清单见 [README.md](README.md)，面向人的约定见 [CONTRIBUTING.md](CONTRIBUTING.md)。
+quanttide-toolkit 是量潮标准库体系的元仓库，在资产轴上聚合各领域 toolkit 子模块。各 toolkit 在各自的领域轴内通常会有更新；本仓库以整理领域间关系和集中治理结构为主，不承载领域实现。因此需要经常 fetch 子模块的最新更新，使引用指针与治理视图保持时效。定位与包清单见 [README.md](README.md)，面向人的约定见 [CONTRIBUTING.md](CONTRIBUTING.md)。
 
 ## 目录结构
 
@@ -10,7 +10,7 @@ quanttide-toolkit 是量潮工具库体系的元仓库，在资产轴上聚合�
 quanttide-toolkit/
 ├── AGENTS.md
 ├── CONTRIBUTING.md
-├── defaults/       # 默认工具集：tech、founder
+├── defaults/       # 默认标准库：tech、founder
 ├── domains/        # 各领域 toolkit
 ├── README.md
 └── ROADMAP.md
